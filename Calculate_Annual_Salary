@@ -1,0 +1,31 @@
+PROBLEM
+
+This year the 5% rise in the salary is provided to an employee. Calculate the new annual salary of an employee if the current annual salary is Rs. 500,000?
+
+#--------------------
+
+SOLUTION
+
+current annual salary = 500000
+percentage rise = 5%
+new salary 	= current salary + salary rise
+	= 500000 + (500000×5 ÷ 100) 
+	= 525000
+
+#--------------------
+
+PYTHON CODE
+
+# This Python program is to calculate new salary of an employee. 
+# It calculates annual change in the salary and new salary. 
+
+# Given information and input variables 
+rise = 5 
+current_salary = 500000 
+
+# Calculate the new salary 
+salary_rise = current_salary*rise/100 
+new_salary = current_salary + salary_rise 
+
+# Show new salary 
+(new_salary) 
