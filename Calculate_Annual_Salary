@@ -8,7 +8,7 @@ SOLUTION
 
 current annual salary = 500000
 percentage rise = 5%
-new salary 	= current salary + salary rise
+new salary = current salary + salary rise
 	= 500000 + (500000×5 ÷ 100) 
 	= 525000
 
